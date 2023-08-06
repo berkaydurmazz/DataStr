@@ -1,16 +1,7 @@
 # DataStr
 This is a Data Structure and Algorithms project 
 
-You can use either your own or our code from the lab sections for the List implementations.
-• This is a pair (group project) assignment. Students form groups of two people. Both of them are responsible for the whole project.
-• Do not share your code with another group or individual. Grade will be 1 for all parties.
-• Do not copy-paste online codes.
-• You can discuss with people around, but you cannot get help on code, or blocks of code from anyone, including relatives.
-• You are only allowed to use your lecture/lab notes. Violating this rule will result in 1/100 as Project #1 grade.
-• You must demonstrate your project on declared dates. Otherwise, your project grade will be 2/100.
-• Both partners must be available during the project demonstration time. One (random) person from the pair (group) will be asked questions. The group grade depends on the individual’s answer. It is not possible to select or change the person called for demo. It is not possible to help the person in the demo. It is not possible to explain an unanswered question with excuses such as “My friend coded these lines, I do not know them”.
-• If demo student fails to answer half or more than half of the questions, your project grade will be 1.
-• Late submissions will not be accepted!
+
 Problem 1 Loose the letter and table
 1. N people are sitting around a table to play a game. Each of these people has a name. On each turn, a random number k [1<=k<=N] is chosen. The kth person loses one letter* from his/her name. If a person has no letters left in his/her name, he/she loses the game, and will be removed from the table. The last person who is still in the table, wins the game.
 a. You will implement circular linked list based program to simulate this scenario.
